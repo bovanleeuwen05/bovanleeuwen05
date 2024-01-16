@@ -1,6 +1,8 @@
+**General information**
+
 The fact that men and women differ from each other is generally known. However, do they also differ in the use of language? Particularly when we look at the use of swear words? The use of swearwords is something which has not necessarily a positive impact on the population. Especially when used online, because it is there permanently. To prevent this negative influence we need to look at the source of the problem. Is this problem due to men or women? Or maybe the both have as much weight in this situation. 
 
-Some background research
+**Some background research**
 
 @article{GUVENDIR2015133,
 title = {Why are males inclined to use strong swear words more than females? An evolutionary explanation based on male intergroup aggressiveness},
@@ -24,4 +26,10 @@ abstract = {The research on sex differences in terms of the use of strong swear 
   year={2017}
 }
 
+**Research question and hypotheses**
+
 My research question is: "Does the amount of using the swear words: 'fuck', 'shit' and 'bitch' differ between man and women on twitter?". Based on earlier research, I expect that it is not the case wether men or women use more swear words, however that it depends on the swear word itself. I think there are certain swear words used more often by women and other swear words more used by men.
+
+**Method**
+
+

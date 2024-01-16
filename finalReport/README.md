@@ -1,6 +1,6 @@
 **General information**
 
-The fact that men and women differ from each other is generally known. However, do they also differ in the use of language? Particularly when we look at the use of swear words? The use of swearwords is something which has not necessarily a positive impact on the population. Especially when used online, because it is there permanently. To prevent this negative influence we need to look at the source of the problem. Is this problem due to men or women? Or maybe the both have as much weight in this situation. 
+The fact that men and women differ from each other is generally known. However, do they also differ in the use of language? Particularly when we look at the use of swear words? The use of swearwords is something which has not necessarily a positive impact on the population. Especially when used online, because it is there permanently. To prevent this negative influence we need to look at the source of the problem. Is this problem due to men or women? Or maybe they both have as much weight in this situation. 
 
 **Some background research**
 
